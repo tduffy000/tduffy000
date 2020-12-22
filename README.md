@@ -1,7 +1,8 @@
 ## About Me
-
-### Work 
 I'm a Data Engineer at [Stash](https://www.stash.com/) where I get to work at the cutting edge of FinTech and Data technologies.
 
-### Play
-Currently, I'm  working to finish my Master's Thesis by putting a speaker verification model onto an Arduino microcontroller! I also built my own [website](https://www.thomasduffy.io) and all the code is right here in [GitHub](https://github.com/tduffy000/my-site)!
+I received my Master's in Data Science & Engineering from CUNY City College in 2020. My Master's [thesis](https://github.com/tduffy000/ccny-masters-thesis) was focused on performing Speaker Verification on an Arduino Nano. 
+
+Oh, and I built my own website on GCP using Hugo, and all the code is here on [GitHub](https://github.com/tduffy000/my-site)!
+
+I'm a regular contributor to [KFServing](https://github.com/tduffy000?org=kubeflow) and I'm super interested in building reliable, reproducible, easy-to-use MLOps systems. 
