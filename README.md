@@ -1,5 +1,5 @@
 ## About Me
-I'm a Data Engineer at [Stash](https://www.stash.com/) where I get to work at the cutting edge of FinTech and Data technologies.
+I'm a Data Engineer at [Disney Streaming](https://www.disneyplus.com/).
 
 I received my Master's in Data Science & Engineering from CUNY City College in 2020. My Master's [thesis](https://github.com/tduffy000/ccny-masters-thesis) was focused on performing Speaker Verification on an Arduino Nano. 
 
