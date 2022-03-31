@@ -9,4 +9,4 @@ I'm a Data Engineer at [Disney Streaming](https://www.disneyplus.com/).
 - Finally, [my attempt](https://github.com/tduffy000/learn-systems) at self-teaching system design and other foundational principles, given that I didn't study Computer Science in college.
 
 ### Open Source
-- In the past, I have contributed to the [`KFServing` project](https://github.com/tduffy000?org=kubeflow) and provide a [set of examples](https://github.com/tduffy000/kfserving-uri-examples) for deploying models using those changes
+- In the past, I have contributed to the [`KServe` project](https://github.com/kserve/kserve/pulls?q=author%3Atduffy000) and provide a [set of examples](https://github.com/tduffy000/kfserving-uri-examples) for deploying models using those changes
