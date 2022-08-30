@@ -1,8 +1,7 @@
 ## About Me
-I'm a Data Engineer at [Disney Streaming](https://www.disneyplus.com/).
+I'm a Sr. Data Engineer at [Disney Streaming](https://www.disneyplus.com/).
 
 ### Personal Projects
-- [`thomasduffy.io`](https://thomasduffy.io) is my own personal website / blog. It's a roll-your-own code situation, and it's all in the [repo](https://github.com/tduffy000/my-site)
 - My [Master's Thesis](https://github.com/tduffy000/ccny-masters-thesis) on text-independent Speaker verification on microcontrollers.
 - A long-term (super WIP) attempt to write a pure Rust chess engine, [`lasker`](https://github.com/tduffy000/lasker).
 - [`torchmnist`](https://github.com/tduffy000/torch-mobile-mnist), a simple Android app to draw hand written digits and predict them using PyTorch.
