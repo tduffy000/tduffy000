@@ -1,5 +1,5 @@
 ## About Me
-I'm a Sr. Data Engineer at [Disney Streaming](https://www.disneyplus.com/).
+I'm a Lead Machine Learning Engineer at [Disney Streaming](https://www.disneyplus.com/).
 
 ### Personal Projects
 - My [Master's Thesis](https://github.com/tduffy000/ccny-masters-thesis) on text-independent Speaker verification on microcontrollers.
